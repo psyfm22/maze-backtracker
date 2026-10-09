@@ -11,14 +11,6 @@ A Python implementation of a robot exploring a maze using depth-first search and
 - Displays the successful route and explored cells.
 - Counts visited cells and backtracking moves.
 
-## How to Run
-
-Requires Python 3.
-
-```bash
-python main.py
-```
-
 ## Concepts Demonstrated
 
 - Two-dimensional grids
